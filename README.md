@@ -16,3 +16,7 @@ como parametro o caminho de onde está armazenado a sua chave json da sua servic
 
 Exemplo para linux/MacOS
 export GOOGLE_APPLICATION_CREDENTIALS="/home/user/Downloads/service-account-file.json"
+
+|name|description | type | Required|
+|---|---|----|---|
+|name|Define o nome do bucket|string|True|
